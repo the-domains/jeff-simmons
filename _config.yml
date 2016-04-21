@@ -1,0 +1,28 @@
+name: Jeff Simmons
+favicon: null
+layout_spectrum: 0.47152838041074574
+typography_spectrum: 0.8260251083411276
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2574726848397404
+  lightness: 0.2589708622545004
+  saturation: 0.06391794933006167
+  rhythmicContrast: 0.2569228697102517
+purpose: []
